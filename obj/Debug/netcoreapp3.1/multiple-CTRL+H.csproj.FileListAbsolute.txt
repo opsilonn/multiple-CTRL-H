@@ -1,0 +1,15 @@
+C:\Users\hugue\Desktop\multiple-CTRL+H\bin\Debug\netcoreapp3.1\multiple-CTRL+H.exe
+C:\Users\hugue\Desktop\multiple-CTRL+H\bin\Debug\netcoreapp3.1\multiple-CTRL+H.deps.json
+C:\Users\hugue\Desktop\multiple-CTRL+H\bin\Debug\netcoreapp3.1\multiple-CTRL+H.runtimeconfig.json
+C:\Users\hugue\Desktop\multiple-CTRL+H\bin\Debug\netcoreapp3.1\multiple-CTRL+H.runtimeconfig.dev.json
+C:\Users\hugue\Desktop\multiple-CTRL+H\bin\Debug\netcoreapp3.1\multiple-CTRL+H.dll
+C:\Users\hugue\Desktop\multiple-CTRL+H\bin\Debug\netcoreapp3.1\multiple-CTRL+H.pdb
+C:\Users\hugue\Desktop\multiple-CTRL+H\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\hugue\Desktop\multiple-CTRL+H\obj\Debug\netcoreapp3.1\multiple-CTRL+H.csprojAssemblyReference.cache
+C:\Users\hugue\Desktop\multiple-CTRL+H\obj\Debug\netcoreapp3.1\multiple-CTRL+H.AssemblyInfoInputs.cache
+C:\Users\hugue\Desktop\multiple-CTRL+H\obj\Debug\netcoreapp3.1\multiple-CTRL+H.AssemblyInfo.cs
+C:\Users\hugue\Desktop\multiple-CTRL+H\obj\Debug\netcoreapp3.1\multiple-CTRL+H.csproj.CoreCompileInputs.cache
+C:\Users\hugue\Desktop\multiple-CTRL+H\obj\Debug\netcoreapp3.1\multiple-CTRL+H.csproj.CopyComplete
+C:\Users\hugue\Desktop\multiple-CTRL+H\obj\Debug\netcoreapp3.1\multiple-CTRL+H.dll
+C:\Users\hugue\Desktop\multiple-CTRL+H\obj\Debug\netcoreapp3.1\multiple-CTRL+H.pdb
+C:\Users\hugue\Desktop\multiple-CTRL+H\obj\Debug\netcoreapp3.1\multiple-CTRL+H.genruntimeconfig.cache

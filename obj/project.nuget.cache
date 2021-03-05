@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Cgi07Zi5afMucblDemdebf4BDfhkT5rGkoKE7dHSP0uExfaH8dGK7MhzvNhX+BU0Qm5ZraC4IH4xTJnJ5GwkmA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\hugue\\Desktop\\multiple-CTRL+H\\multiple-CTRL+H.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\hugue\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

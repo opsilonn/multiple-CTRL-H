@@ -1,0 +1,81 @@
+﻿{
+	"fileFullName": "data.sql",
+	"changes": [
+		{
+			"from": "Normal,",
+			"to": "1,"
+		},
+		{
+			"from": "Fire,",
+			"to": "2,"
+		},
+		{
+			"from": "Water,",
+			"to": "3,"
+		},
+		{
+			"from": "Grass,",
+			"to": "4,"
+		},
+		{
+			"from": "Electric,",
+			"to": "5,"
+		},
+		{
+			"from": "Ice,",
+			"to": "6,"
+		},
+		{
+			"from": "Fighting,",
+			"to": "7,"
+		},
+		{
+			"from": "Poison,",
+			"to": "8,"
+		},
+		{
+			"from": "Ground,",
+			"to": "9,"
+		},
+		{
+			"from": "Flying,",
+			"to": "10,"
+		},
+		{
+			"from": "Psychic,",
+			"to": "11,"
+		},
+		{
+			"from": "Bug,",
+			"to": "12,"
+		},
+		{
+			"from": "Rock,",
+			"to": "13,"
+		},
+		{
+			"from": "Ghost,",
+			"to": "14,"
+		},
+		{
+			"from": "Dark,",
+			"to": "15,"
+		},
+		{
+			"from": "Dragon,",
+			"to": "16,"
+		},
+		{
+			"from": "Steel,",
+			"to": "17,"
+		},
+		{
+			"from": "Fairy,",
+			"to": "18,"
+		},
+		{
+			"from": ",,",
+			"to": ",NULL,"
+		}
+	]
+}
