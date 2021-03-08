@@ -1,4 +1,4 @@
-INSERT INTO POKEMON (id, pokedex_number, name_english, german_name, type1_id, type2_id, generation_id, status, species, height, weight, hp, attack, defense, sp_attack, sp_defense, speed, catch_rate, base_friendship, base_experience, growth_rate, percentage_male) VALUES
+INSERT INTO POKEMON (id, pokedex_number, name_english, name_german, type1_id, type2_id, generation_id, status, species, height, weight, hp, attack, defense, sp_attack, sp_defense, speed, catch_rate, base_friendship, base_experience, growth_rate, percentage_male) VALUES
 (0,1,'Bulbasaur','Bisasam',4,8,1,'Normal','Seed',0.7,6.9,45,49,49,65,65,45,45,70,64,'Medium Slow',87.5),
 (1,2,'Ivysaur','Bisaknosp',4,8,1,'Normal','Seed',1,13,60,62,63,80,80,60,45,70,142,'Medium Slow',87.5),
 (2,3,'Venusaur','Bisaflor',4,8,1,'Normal','Seed',2,100,80,82,83,100,100,80,45,70,236,'Medium Slow',87.5),
